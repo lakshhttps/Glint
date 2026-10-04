@@ -1,0 +1,19 @@
+{
+  "name": "glint",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Glint - AI-Powered API Testing Tool",
+  "scripts": {
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client",
+    "start": "npm start --prefix client"
+  },
+  "keywords": [
+    "api-tester",
+    "postman",
+    "gemini-ai",
+    "react",
+    "express"
+  ],
+  "author": "Anup Tiwari"
+}
