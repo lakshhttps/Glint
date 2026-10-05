@@ -138,10 +138,3 @@ Glint/
 ├── architecture.md         # Full technical architecture specification
 ├── Glint.md                # Issue resolution log and audit report
 └── README.md               # Project documentation
-```
-
----
-
-## Author
-
-Built by [Anup Tiwari](https://github.com/anuptiwari17).
